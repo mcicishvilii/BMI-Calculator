@@ -23,7 +23,7 @@
         android:id="@+id/ET_your_weight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="3dp0dp"
         android:hint="@string/editext_hint_enterKG"
         app:layout_constraintTop_toBottomOf="@id/TW_textView"
         app:layout_constraintStart_toStartOf="parent"
