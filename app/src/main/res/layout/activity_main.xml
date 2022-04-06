@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/bmi_calc_app_title"
-        android:textSize="40sp"
+        android:textSize="20sp"
         android:textColor="@color/red"
         android:fontFamily="sans-serif"
         android:layout_marginTop="30dp"
