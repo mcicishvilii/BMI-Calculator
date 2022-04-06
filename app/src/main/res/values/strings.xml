@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bmicalc</string>
+    <string name="bmi_calc_app_title">BMI calc</string>
+    <string name="editext_hint_enterKG">please enter your weight in KG</string>
+    <string name="editext_hint_enterCM">hint_enterCM</string>
+    <string name="calculate_button">GO!</string>
+    <string name="height_edittext">please enter your height in CM</string>
+    <string name="your_bmi_is">your BMI is:</string>
+</resources>
